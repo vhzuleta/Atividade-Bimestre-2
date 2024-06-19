@@ -80,3 +80,5 @@ print(pizza_salg_borda.getDescription() + ": $" + str(pizza_salg_borda.getTotalC
 # Client 3: está com muita fome.
 pizza_suprema = StuffedCrust(Calabresa(Cheese(Pinneaple(Chicken(DarkChocolate(WhiteChocolate(Tomatoes(CreamCheese(Plate())))))))))
 print(pizza_suprema.getDescription() + ": $" + str(pizza_suprema.getTotalCost()))
+
+# Assim, o código está finalizado!
